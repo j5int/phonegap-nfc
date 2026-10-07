@@ -1,3 +1,6 @@
+= 1.2.0-j5.4 =
+Remove NDEF format from iOS entitlements to align with App Store requirements
+
 = 1.2.0-j5.3 =
 Remove peer to peer communication for Android since it is not supported in Android SDK 34 anymore
 
